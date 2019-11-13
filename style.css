@@ -1,4 +1,23 @@
 body {
     color: white;
     background-color: black;
+    font-family: 'Sacramento', cursive;
+    font-size: 32px;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+
+  .center-div {
+    text-align: center;
+    display: block;
+  }
+
+  .quote-text {
+    text-align: center;
+    font-family: 'comic sans ms';
+    font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+    cursor: help;
   }
